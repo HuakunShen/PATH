@@ -1,0 +1,21 @@
+[submodule "LearnSQL"]
+	path = LearnSQL
+	url = https://github.com/HuakunShen/LearnSQL.git
+[submodule "LearnGo"]
+	path = LearnGo
+	url = https://github.com/HuakunShen/LearnGo.git
+[submodule "LearnAI"]
+	path = LearnAI
+	url = https://github.com/HuakunShen/LearnAI.git
+[submodule "LearnWeb"]
+	path = LearnWeb
+	url = https://github.com/HuakunShen/LearnWeb.git
+[submodule "LearnOS"]
+	path = LearnOS
+	url = https://github.com/HuakunShen/LearnOS.git
+[submodule "LearnSystemDesign"]
+	path = LearnSystemDesign
+	url = https://github.com/HuakunShen/LearnSystemDesign.git
+[submodule "LearnAlgorithm"]
+	path = LearnAlgorithm
+	url = https://github.com/HuakunShen/LearnAlgorithm.git
