@@ -21,3 +21,12 @@
 	url = https://github.com/HuakunShen/LearnDesignPattern.git
 [submodule "LearnDocker"]
 	url = https://github.com/HuakunShen/LearnDocker.git
+[submodule "LearnWeb"]
+	path = LearnWeb
+	url = git@github.com:HuakunShen/LearnWeb.git
+[submodule "LearnWebScraping"]
+	path = LearnWebScraping
+	url = git@github.com:HuakunShen/LearnWebScraping.git
+[submodule "LearnPenetrationTesting"]
+	path = LearnPenetrationTesting
+	url = git@github.com:HuakunShen/LearnPenetrationTesting.git
