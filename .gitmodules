@@ -7,9 +7,6 @@
 [submodule "LearnAI"]
 	path = LearnAI
 	url = https://github.com/HuakunShen/LearnAI.git
-[submodule "LearnWeb"]
-	path = LearnWeb
-	url = https://github.com/HuakunShen/LearnWeb.git
 [submodule "LearnOS"]
 	path = LearnOS
 	url = https://github.com/HuakunShen/LearnOS.git
