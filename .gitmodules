@@ -19,9 +19,6 @@
 [submodule "LearnAlgorithm"]
 	path = LearnAlgorithm
 	url = https://github.com/HuakunShen/LearnAlgorithm.git
-[submodule "LearnWebCrawler"]
-	path = LearnWebCrawler
-	url = https://github.com/HuakunShen/LearnWebCrawler.git
 [submodule "LearnDesignPattern"]
 	path = LearnDesignPattern
 	url = https://github.com/HuakunShen/LearnDesignPattern.git
