@@ -1,26 +1,27 @@
 [submodule "LearnSQL"]
 	path = LearnSQL
-	url = https://github.com/HuakunShen/LearnSQL.git
+	url = git@github.com:HuakunShen/LearnSQL.git
 [submodule "LearnGo"]
 	path = LearnGo
-	url = https://github.com/HuakunShen/LearnGo.git
+	url = git@github.com:HuakunShen/LearnGo.git
 [submodule "LearnAI"]
 	path = LearnAI
-	url = https://github.com/HuakunShen/LearnAI.git
+	url = git@github.com:HuakunShen/LearnAI.git
 [submodule "LearnOS"]
 	path = LearnOS
-	url = https://github.com/HuakunShen/LearnOS.git
+	url = git@github.com:HuakunShen/LearnOS.git
 [submodule "LearnSystemDesign"]
 	path = LearnSystemDesign
-	url = https://github.com/HuakunShen/LearnSystemDesign.git
+	url = git@github.com:HuakunShen/LearnSystemDesign.git
 [submodule "LearnAlgorithm"]
 	path = LearnAlgorithm
-	url = https://github.com/HuakunShen/LearnAlgorithm.git
+	url = git@github.com:HuakunShen/LearnAlgorithm.git
 [submodule "LearnDesignPattern"]
 	path = LearnDesignPattern
-	url = https://github.com/HuakunShen/LearnDesignPattern.git
+	url = git@github.com:HuakunShen/LearnDesignPattern.git
 [submodule "LearnDocker"]
-	url = https://github.com/HuakunShen/LearnDocker.git
+	path = LearnDocker
+	url = git@github.com:HuakunShen/LearnDocker.git
 [submodule "LearnWeb"]
 	path = LearnWeb
 	url = git@github.com:HuakunShen/LearnWeb.git
