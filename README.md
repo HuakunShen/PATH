@@ -2,15 +2,15 @@
 
 My PATH to a hacker.
 
-- [LearnAI](./LearnAI)
-- [LearnAlgorithm](./LearnAlgorithm)
-- [LearnDesignPattern](./LearnDesignPattern)
-- [LearnDocker](./LearnDocker)
-- [LearnGo](./LearnGo)
-- [LearnOS](./LearnOS)
-- [LearnPenetrationTesting](./LearnPenetrationTesting)
-- [LearnSQL](./LearnSQL)
-- [LearnSystemDesign](./LearnSystemDesign)
-- [LearnWeb](./LearnWeb)
-- [LearnWebScraping](./LearnWebScraping)
+- [LearnAI](./LearnAI/README.md)
+- [LearnAlgorithm](./LearnAlgorithm/README.md)
+- [LearnDesignPattern](./LearnDesignPattern/README.md)
+- [LearnDocker](./LearnDocker/README.md)
+- [LearnGo](./LearnGo/README.md)
+- [LearnOS](./LearnOS/README.md)
+- [LearnPenetrationTesting](./LearnPenetrationTesting/README.md)
+- [LearnSQL](./LearnSQL/README.md)
+- [LearnSystemDesign](./LearnSystemDesign/README.md)
+- [LearnWeb](./LearnWeb/README.md)
+- [LearnWebScraping](./LearnWebScraping/README.md)
 
