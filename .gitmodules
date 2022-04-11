@@ -31,3 +31,9 @@
 [submodule "LearnPenetrationTesting"]
 	path = LearnPenetrationTesting
 	url = git@github.com:HuakunShen/LearnPenetrationTesting.git
+[submodule "LearnHacking"]
+	path = LearnHacking
+	url = git@github.com:HuakunShen/LearnHacking.git
+[submodule "LearnReverseEngineering"]
+	path = LearnReverseEngineering
+	url = git@github.com:HuakunShen/LearnReverseEngineering.git
