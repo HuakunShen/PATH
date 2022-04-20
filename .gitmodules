@@ -39,3 +39,6 @@
 	url = git@github.com:HuakunShen/LearnReverseEngineering.git
 [submodule "LearnTools"]
 	url = git@github.com:HuakunShen/LearnTools.git
+[submodule "LearnBlockchain"]
+	path = LearnBlockchain
+	url = git@github.com:HuakunShen/LearnBlockchain.git
