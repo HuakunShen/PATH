@@ -42,3 +42,9 @@
 [submodule "LearnBlockchain"]
 	path = LearnBlockchain
 	url = git@github.com:HuakunShen/LearnBlockchain.git
+[submodule "LearnDevOps"]
+	path = LearnDevOps
+	url = git@github.com:HuakunShen/LearnDevOps.git
+[submodule "LearnDS"]
+	path = LearnDS
+	url = git@github.com:HuakunShen/LearnDS.git
