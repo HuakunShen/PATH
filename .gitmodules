@@ -48,3 +48,6 @@
 [submodule "LearnDS"]
 	path = LearnDS
 	url = git@github.com:HuakunShen/LearnDS.git
+[submodule "LearnDatabase"]
+	path = LearnDatabase
+	url = git@github.com:HuakunShen/LearnDatabase.git
