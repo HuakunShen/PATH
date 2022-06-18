@@ -38,6 +38,7 @@
 	path = LearnReverseEngineering
 	url = git@github.com:HuakunShen/LearnReverseEngineering.git
 [submodule "LearnTools"]
+	path = LearnTools
 	url = git@github.com:HuakunShen/LearnTools.git
 [submodule "LearnBlockchain"]
 	path = LearnBlockchain
