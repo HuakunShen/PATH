@@ -1,6 +1,10 @@
 # PATH
 
-My PATH to a hacker.
+All notes are distributed in other repos using submodules. 
+
+Some repos are private as they may be empty for now.
+
+Check out https://brain.huakunshen.com for a better looking UI.
 
 - [LearnAI](./LearnAI/README.md)
 - [LearnAlgorithm](./LearnAlgorithm/README.md)
