@@ -55,3 +55,9 @@
 [submodule "LearnCrypto"]
 	path = LearnCrypto
 	url = git@github.com:HuakunShen/LearnCrypto.git
+[submodule "LearnRobotics"]
+	path = LearnRobotics
+	url = git@github.com:HuakunShen/LearnRobotics.git
+[submodule "LearnROS"]
+	path = LearnROS
+	url = git@github.com:HuakunShen/LearnROS.git
