@@ -61,3 +61,7 @@
 [submodule "LearnROS"]
 	path = LearnROS
 	url = git@github.com:HuakunShen/LearnROS.git
+[submodule "2048AI"]
+	path = 2048AI
+	url = git@github.com:HuakunShen/2048AI.git
+	branch = pytest
